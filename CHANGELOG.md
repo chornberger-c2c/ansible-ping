@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v0.1.0...v0.2.0) (2022-04-04)
+
+
+### Features
+
+* **docs:** add README.md 2 ([f180710](https://www.github.com/chornberger-c2c/ansible-ping/commit/f18071013b812432badb2fa84347c420780e4c5d))
+
+
+### Bug Fixes
+
+* **gh action:** update release-please.yml ([9a02dd7](https://www.github.com/chornberger-c2c/ansible-ping/commit/9a02dd7bb19f12b8c4d4d572f8f1937f4f0509c3))
+
 ## 0.1.0 (2022-04-04)
 
 
