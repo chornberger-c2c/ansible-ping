@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v1.0.0...v1.1.0) (2022-04-05)
+
+
+### Features
+
+* **docs:** add description to README.md ([d1cf566](https://www.github.com/chornberger-c2c/ansible-ping/commit/d1cf566e24509bf2fda862585aa4a37d84b5d7f0))
+
 ## [1.0.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v0.2.0...v1.0.0) (2022-04-05)
 
 
