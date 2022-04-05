@@ -1,5 +1,21 @@
 # Changelog
 
+## [1.0.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v0.2.0...v1.0.0) (2022-04-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* **playbook:** need to specify target host 3
+
+### Features
+
+* **playbook:** need to specify target host 3 ([705ce5f](https://www.github.com/chornberger-c2c/ansible-ping/commit/705ce5fd0d27af16aee81a9c69607b7f6dbd328c))
+
+
+### Miscellaneous Chores
+
+* release 1.0.0 ([9b3678f](https://www.github.com/chornberger-c2c/ansible-ping/commit/9b3678f30ba0554d70f34d917dc5e6ad8eda4e7e))
+
 ## [0.2.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v0.1.0...v0.2.0) (2022-04-04)
 
 
