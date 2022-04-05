@@ -1,8 +1,6 @@
 ---
-on:
-  pull_request:
-    types: [opened, reopened]
-
+on: [push, pull_request]
+  
 name: "release-please"
 
 jobs:
