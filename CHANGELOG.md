@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v2.0.0...v2.1.0) (2022-10-24)
+
+
+### Features
+
+* add reboot.yml ([ba17e83](https://www.github.com/chornberger-c2c/ansible-ping/commit/ba17e83279c29c072b6bab80c92c4313e27dec23))
+
 ## [2.0.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v1.1.0...v2.0.0) (2022-04-05)
 
 
