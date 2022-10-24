@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v2.1.0...v2.2.0) (2022-10-24)
+
+
+### Features
+
+* specify target in reboot.yml ([4f21b79](https://www.github.com/chornberger-c2c/ansible-ping/commit/4f21b79ecd2c0df44648da23aef857731704d3aa))
+
 ## [2.1.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v2.0.0...v2.1.0) (2022-10-24)
 
 
