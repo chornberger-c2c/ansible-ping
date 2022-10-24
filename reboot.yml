@@ -1,6 +1,6 @@
 ---
-- hosts: all
-
+- hosts: '{{ target }}'
   tasks:
+
     - name: reboot machine
       reboot:
