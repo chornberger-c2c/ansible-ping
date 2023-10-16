@@ -1,0 +1,13 @@
+---
+- hosts: all
+  tasks:
+  
+    - name: install apache2
+      yum:
+        name: httpd
+        state: present
+        
+    - name: Setup apache2_modules
+      community.general.apache2_module:
+        state: present
+        name: echo
