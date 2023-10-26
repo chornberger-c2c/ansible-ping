@@ -1,2 +1,3 @@
-[test-servers]
+[gittest]
 rhel8guest
+rhel8-localguest
