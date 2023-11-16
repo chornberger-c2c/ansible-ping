@@ -3,6 +3,3 @@
   tasks:
     - name: ping hosts
       ping:
-    - name: print test
-      debg:
-        msg: xyz
