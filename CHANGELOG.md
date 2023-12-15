@@ -1,5 +1,19 @@
 # Changelog
 
+## [2.3.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v2.2.0...v2.3.0) (2023-11-16)
+
+
+### Features
+
+* add new hosts to inventory ([b5fb033](https://www.github.com/chornberger-c2c/ansible-ping/commit/b5fb033e8889aa02b74878c8080bed7ebd033aa4))
+* add test inventory ([9b36faf](https://www.github.com/chornberger-c2c/ansible-ping/commit/9b36faf74d08e06331447a34155dabf938d4728b))
+* print test ([cd08544](https://www.github.com/chornberger-c2c/ansible-ping/commit/cd085448e2fcaa71081f81a37855d2dd1e1df980))
+
+
+### Bug Fixes
+
+* Update ping.yml ([43d091a](https://www.github.com/chornberger-c2c/ansible-ping/commit/43d091a7aeddb61f606e88d7786c21463479b74b))
+
 ## [2.2.0](https://www.github.com/chornberger-c2c/ansible-ping/compare/v2.1.0...v2.2.0) (2022-10-24)
 
 
