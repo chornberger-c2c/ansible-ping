@@ -1,5 +1,14 @@
 ---
 - hosts: all
+
   tasks:
-    - name: ping hosts
-      ping:
+    - name: Ping hosts
+      ansible.builtin.ping:
+      tags:
+        - ping
+
+    - name: Print welcome message
+      ansible.builtin.debug:
+        msg: "Hello world!"
+      tags:
+        - message
