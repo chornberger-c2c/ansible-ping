@@ -1,1 +1,41 @@
-this is a 2nd test
+- targets:
+  - AWS-P-ALPAP-001.domain.net
+  - AWS-P-WFSAP-001.domain.net
+  labels:
+    job: blackbox-exporter
+    env: prd
+    type: vm
+    site: aws
+- targets:
+  - GVA-099.domain.net
+  - GVA-399.domain.net
+  - GVA-D-abc-001.domain.net
+  - GVA-D-def-001.domain.net
+  labels:
+    job: blackbox-exporter
+    env: dev
+    type: vm
+    site: geneva
+- targets:
+  - GVA-099.domain.net
+  - GVA-999.domain.net
+  labels:
+    job: blackbox-exporter
+    env: prd
+    type: vm
+    site: geneva
+- targets:
+  - ATH-001.domain.net
+  - ATH-121.domain.net
+  labels:
+    job: blackbox-exporter
+    env: prd
+    type: vm
+    site: athens
+- targets:
+  - GVA-099.domain.net
+  labels:
+    job: blackbox-exporter
+    env: uat
+    type: vm
+    site: geneva

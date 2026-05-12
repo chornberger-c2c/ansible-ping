@@ -1,0 +1,39 @@
+- targets:
+  - ATH-001.domain.net
+  - ATH-111.domain.net
+  - ATH-121.domain.net
+  - ATH-P-001.domain.net
+  - ATH-P-002-domain.net
+  labels:
+    job: windows_exporter
+    component: windows
+    location: athens
+    env: prd
+    osteam: itplatform
+- targets:
+  - GVA-099.domain.net
+  - GVA-399.domain.net
+  - GVA-P-006.domain.net
+  labels:
+    job: windows_exporter
+    component: windows
+    location: geneva
+    env: dev
+    osteam: itplatform
+- targets:
+  - GVA-039.domain.net
+  - GVA-099.domain.net
+  labels:
+    job: windows_exporter
+    component: windows
+    location: geneva
+    env: prd
+    osteam: itplatform
+- targets:
+  - GVA-099.domain.net
+  labels:
+    job: windows_exporter
+    component: windows
+    location: geneva
+    env: uat
+    osteam: itplatform
