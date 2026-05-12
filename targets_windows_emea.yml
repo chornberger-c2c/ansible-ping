@@ -2,6 +2,7 @@
   - ATH-001.domain.net
   - ATH-111.domain.net
   - ATH-121.domain.net
+  - ATH-421.domain.net
   - ATH-P-001.domain.net
   - ATH-P-002-domain.net
   labels:
@@ -13,6 +14,7 @@
 - targets:
   - GVA-099.domain.net
   - GVA-399.domain.net
+  - GVA-499.domain.net
   - GVA-P-006.domain.net
   labels:
     job: windows_exporter

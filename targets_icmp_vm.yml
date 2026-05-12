@@ -9,6 +9,7 @@
 - targets:
   - GVA-099.domain.net
   - GVA-399.domain.net
+  - GVA-499.domain.net
   - GVA-D-abc-001.domain.net
   - GVA-D-def-001.domain.net
   labels:
@@ -27,6 +28,7 @@
 - targets:
   - ATH-001.domain.net
   - ATH-121.domain.net
+  - ATH-421.domain.net
   labels:
     job: blackbox-exporter
     env: prd
